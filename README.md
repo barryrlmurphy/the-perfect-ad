@@ -1,1 +1,1 @@
-the-perfect-ad==============How to make the perfect ad
+the-perfect-ad==============How to make the perfect adPage Flow=========This is the page flow:Page One--------Welcome page basically the same as you created Dan.Page Two--------TitlePage Three----------SectionPage Four---------PricePage Five---------PhotoPage Six--------ReviewWorkflow Breakdown==================Here is a list of the _possible_ workflow breakdown:*	_Dan_ to do designs.*	_Barry_ coding.*	_Shane_ coding.
