@@ -4,8 +4,8 @@ body {
     text-align: center;
 }    
 
-div.panel { width: 100%; }
-div.panel img.full-bg {  }
+div.section { height: 700px; width: 1200px; }
+div.section img.full-bg {  }
 
 div.photo-room {  }
 div.photo-hand {  }
