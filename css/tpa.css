@@ -9,3 +9,6 @@ div.section img.full-bg {  }
 
 div.photo-room {  }
 div.photo-hand {  }
+
+
+div.content { left:50%; margin-left:-364px; margin-top:-350px; padding:170px 0 50px; position:fixed; top:50%; }
