@@ -7,8 +7,8 @@ body {
 div.section { height: 1700px; width: 100%; }
 div.section img.full-bg {  }
 
-div.section h1 { color: rgb(230, 43, 38);}
-div.section h1.odd { color: #ffffff;}
-
 div.photo-room {  }
 div.photo-hand {  }
+
+
+div.content { left:50%; margin-left:-364px; margin-top:-350px; padding:170px 0 50px; position:fixed; top:50%; }
