@@ -4,8 +4,8 @@ body {
     text-align: center;
 }    
 
-div.section { height: 1700px; width: 100%; }
-div.section-short { height: 700px; width: 100%; min-width: 1200px; }
+div.section { height: 1700px; width: 100%; overflow: hidden; }
+div.section-short { height: 700px; width: 100%; max-width: 1200px; overflow: hidden; }
 div.section img.full-bg { 
     min-height: 100%;
     min-width: 1024px;
