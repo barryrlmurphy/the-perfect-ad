@@ -1,0 +1,11 @@
+body {
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+}    
+
+div.panel { width: 100%; }
+div.panel img.full-bg {  }
+
+div.photo-room {  }
+div.photo-hand {  }
