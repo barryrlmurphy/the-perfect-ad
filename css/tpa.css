@@ -5,10 +5,19 @@ body {
 }    
 
 div.section { height: 1700px; width: 100%; }
-div.section img.full-bg {  }
+div.section-short { height: 700px; width: 100%; min-width: 1200px; }
+div.section img.full-bg { 
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    /*position: fixed;*/
+    /*top: 0;*/
+    /*left: 0; */
+}
 
 div.photo-room {  }
 div.photo-hand {  }
 
-
-div.content { left:50%; margin-left:-364px; margin-top:-350px; padding:170px 0 50px; position:fixed; top:50%; }
+div.content {  }
+/*div.content { left:50%; margin-left:-364px; margin-top:-350px; padding:170px 0 50px; position:fixed; top:50%; }*/
